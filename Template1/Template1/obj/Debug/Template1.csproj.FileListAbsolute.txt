@@ -1,0 +1,16 @@
+c:\users\anik\documents\visual studio 2012\Projects\Template1\Template1\bin\Debug\Template1.exe.config
+c:\users\anik\documents\visual studio 2012\Projects\Template1\Template1\bin\Debug\Template1.exe
+c:\users\anik\documents\visual studio 2012\Projects\Template1\Template1\bin\Debug\Template1.pdb
+c:\users\anik\documents\visual studio 2012\Projects\Template1\Template1\obj\Debug\Template1.csprojResolveAssemblyReference.cache
+c:\users\anik\documents\visual studio 2012\Projects\Template1\Template1\obj\Debug\MainWindow.baml
+c:\users\anik\documents\visual studio 2012\Projects\Template1\Template1\obj\Debug\MainWindow.g.cs
+c:\users\anik\documents\visual studio 2012\Projects\Template1\Template1\obj\Debug\App.g.cs
+c:\users\anik\documents\visual studio 2012\Projects\Template1\Template1\obj\Debug\Template1_MarkupCompile.cache
+c:\users\anik\documents\visual studio 2012\Projects\Template1\Template1\obj\Debug\Template1.g.resources
+c:\users\anik\documents\visual studio 2012\Projects\Template1\Template1\obj\Debug\Template1.Properties.Resources.resources
+c:\users\anik\documents\visual studio 2012\Projects\Template1\Template1\obj\Debug\Template1.csproj.GenerateResource.Cache
+c:\users\anik\documents\visual studio 2012\Projects\Template1\Template1\obj\Debug\Template1.exe
+c:\users\anik\documents\visual studio 2012\Projects\Template1\Template1\obj\Debug\Template1.pdb
+F:\Desktop Template\Template1\Template1\bin\Debug\Template1.exe.config
+F:\Desktop Template\Template1\Template1\obj\Debug\Template1.exe
+F:\Desktop Template\Template1\Template1\obj\Debug\Template1.pdb

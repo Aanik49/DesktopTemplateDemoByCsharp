@@ -1,0 +1,16 @@
+﻿<Window x:Class="Attendence_Sheet.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Student Attendence Sheet" Height="426.151" Width="697.803" ResizeMode="CanMinimize" Icon="image/icon.png">
+    <Window.Background>
+        <ImageBrush ImageSource="image/login-ui.jpg"/>
+    </Window.Background>
+    <Grid>
+        <TextBox x:Name="txt_username" HorizontalAlignment="Left" Height="25" Margin="272,187,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="148" BorderBrush="#FF65676E"/>
+        <PasswordBox x:Name="txt_password" HorizontalAlignment="Left" Margin="272,230,0,0" VerticalAlignment="Top" Height="25" Width="148" BorderBrush="#FF97999E"/>
+        <Button x:Name="btn_sign" Content="SIGN IN" HorizontalAlignment="Left" VerticalAlignment="Top" Width="65" Margin="315,276,0,0" Height="26" Background="#FF6E6666" Foreground="#FFF0E8E8" Click="btn_sign_click"/>
+        <Image HorizontalAlignment="Left" Height="25" Margin="236,187,0,0" VerticalAlignment="Top" Width="31" Source="image/user-remove-512.png"/>
+        <Image HorizontalAlignment="Left" Height="25" Margin="236,229,0,0" VerticalAlignment="Top" Width="31" Source="image/password1600.png"/>
+
+    </Grid>
+</Window>
